@@ -1,0 +1,9 @@
+app:
+    resource: "@AppBundle/Controller"
+    type: annotation
+#demo:
+#    resource: "@AppBundle/Controller/DemoController.php"
+#    type: annotation
+#other:
+#    resource: "@AppBundle/Controller/OtherController.php"
+#    type: annotation
